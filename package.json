@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/helper-compilation-targets": "^7.10.2",
     "axios": "^0.19.1",
     "vue-router": "^3.1.5",
     "vuex": "^3.1.2"
@@ -34,7 +35,7 @@
     "vue-template-compiler": "^2.6.11",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.10.1",
+    "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^4.2.2"
   }
 }
